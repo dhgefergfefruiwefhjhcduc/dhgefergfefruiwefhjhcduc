@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-stack+dev+%40+VIT+Vellore+(CGPA+9.11);Building+with+React+%2B+Next.js;Shipping+ML%2C+CV+%26+GenAI+into+real+apps;Author+of+mlforgex+-+10k%2B+downloads" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-stack+Developer;Building+with+React+%2B+Next.js;Shipping+ML%2C+CV+%26+GenAI+into+real+apps;Author+of+mlforgex+-+10k%2B+downloads" />
   </a>
 </p>
 
