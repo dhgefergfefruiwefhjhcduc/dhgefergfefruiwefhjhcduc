@@ -9,7 +9,12 @@
   <a href="mailto:mathurpriyanshu2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+
+  </a>
+ 
+  <a href="https://leetcode.com/u/quil123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -142,7 +147,7 @@ I like the layer where engineering meets a model: taking something that works in
 <tr>
 <td width="100%">
 
-**🚦 AI-Driven Parking Intelligence & Congestion Impact Command Center**  ·  [`GitHub`](#)
+**🚦 AI-Driven Parking Intelligence & Congestion Impact Command Center**  ·  [`GitHub`](https://github.com/dhgefergfefruiwefhjhcduc/Flipkart-Gridlock-2.0-Poor_Visibility_on_Parking_Induced_Congestion)
 <br>
 An AI-powered traffic command center that finds illegal parking hotspots and tells enforcement teams where to go first. Combined **DBSCAN** clustering, **XGBoost**, and NLP to detect and classify hotspots, then engineered a custom **Parking Congestion Impact Index (PCII)** from geospatial, temporal, and violation data to score congestion risk. Patrol routes are auto-optimized with a **Nearest-Neighbor TSP** + Haversine-distance solver, and everything surfaces in an interactive **Streamlit** dashboard with hotspot explainability and impact simulation.
 <br><br>
@@ -153,7 +158,7 @@ An AI-powered traffic command center that finds illegal parking hotspots and tel
 <tr>
 <td width="100%">
 
-**📦 mlforgex** — Open-Source ML Package · **10,000+ downloads**  ·  [`PyPI Docs`](#)
+**📦 mlforgex** — Open-Source ML Package · **10,000+ downloads**  ·  [`PyPI Docs`](https://pypi.org/project/mlforgex/)
 <br>
 A published Python package (PyPI) wrapping 10+ classification, regression, and sentiment-analysis algorithms behind a simple, automated interface. Preprocessing and encoding pipelines are handled automatically, cutting manual data-prep effort by roughly **60%**, and built-in feature-importance visualizations make the underlying models interpretable instead of a black box. Shipped with GitHub Actions for automated testing and versioned releases.
 <br><br>
@@ -164,7 +169,7 @@ A published Python package (PyPI) wrapping 10+ classification, regression, and s
 <tr>
 <td width="100%">
 
-**🛍️ Outfit — Full-Stack Fashion E-Commerce Platform**  ·  [`Live Site`](#)  ·  [`Admin Dashboard`](#)
+**🛍️ Outfit — Full-Stack Fashion E-Commerce Platform**  ·  [`Live Site`](https://e-commerce-coral-theta.vercel.app/)
 <br>
 A responsive e-commerce platform built on **React, Next.js, Tailwind CSS, and MongoDB**, with secure auth, cart, wishlist, and REST-API-driven order processing. Paired with a full admin dashboard for product/inventory management (multi-image upload included), order tracking automated via cron jobs, and analytics views for sales, wishlist trends, and user activity — the two halves together cover the whole store lifecycle, not just the storefront.
 <br><br>
@@ -200,10 +205,6 @@ A responsive e-commerce platform built on **React, Next.js, Tailwind CSS, and Mo
 <p align="center">
   <img src="https://raw.githubusercontent.com/dhgefergfefruiwefhjhcduc/dhgefergfefruiwefhjhcduc/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<blockquote align="center">
-  <sub>👆 The snake animation needs a one-time GitHub Action setup — see the comment at the bottom of this file.</sub>
-</blockquote>
 
 ---
 
